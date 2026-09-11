@@ -10,15 +10,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ASHIKA-N/LeetCode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ASHIKA-N/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ASHIKA-N/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ASHIKA-N/LeetCode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ASHIKA-N/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ASHIKA-N/LeetCode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ASHIKA-N/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Bellman–Ford Algorithm
 |  |
@@ -52,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ASHIKA-N/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Depth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ASHIKA-N/LeetCode/tree/master/0743-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ASHIKA-N/LeetCode/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ASHIKA-N/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
