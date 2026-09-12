@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/ASHIKA-N/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0743-network-delay-time](https://github.com/ASHIKA-N/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ASHIKA-N/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
@@ -87,4 +88,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASHIKA-N/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/ASHIKA-N/LeetCode/tree/master/0126-word-ladder-ii) |
+## String
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/ASHIKA-N/LeetCode/tree/master/0126-word-ladder-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/ASHIKA-N/LeetCode/tree/master/0126-word-ladder-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/ASHIKA-N/LeetCode/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
