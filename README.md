@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASHIKA-N/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ASHIKA-N/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ASHIKA-N/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ASHIKA-N/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASHIKA-N/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ASHIKA-N/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Union-Find
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ASHIKA-N/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASHIKA-N/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
