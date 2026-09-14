@@ -104,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/ASHIKA-N/LeetCode/tree/master/0126-word-ladder-ii) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ASHIKA-N/LeetCode/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ASHIKA-N/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
