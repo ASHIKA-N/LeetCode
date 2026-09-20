@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASHIKA-N/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0778-swim-in-rising-water](https://github.com/ASHIKA-N/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/ASHIKA-N/LeetCode/tree/master/0827-making-a-large-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ASHIKA-N/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Union-Find
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/ASHIKA-N/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/ASHIKA-N/LeetCode/tree/master/0827-making-a-large-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ASHIKA-N/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ASHIKA-N/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ASHIKA-N/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ASHIKA-N/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/ASHIKA-N/LeetCode/tree/master/0827-making-a-large-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ASHIKA-N/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ASHIKA-N/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ASHIKA-N/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/ASHIKA-N/LeetCode/tree/master/0827-making-a-large-island) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -130,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/ASHIKA-N/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/ASHIKA-N/LeetCode/tree/master/0827-making-a-large-island) |
 <!---LeetCode Topics End-->
