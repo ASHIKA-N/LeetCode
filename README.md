@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ASHIKA-N/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ASHIKA-N/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ASHIKA-N/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3524-find-x-value-of-array-i](https://github.com/ASHIKA-N/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/ASHIKA-N/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ASHIKA-N/LeetCode/tree/master/0827-making-a-large-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ASHIKA-N/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+| [3524-find-x-value-of-array-i](https://github.com/ASHIKA-N/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ASHIKA-N/LeetCode/tree/master/0836-rectangle-overlap) |
+| [3524-find-x-value-of-array-i](https://github.com/ASHIKA-N/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
 |  |
 | ------- |
